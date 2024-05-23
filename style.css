@@ -18,6 +18,7 @@
 
 .display-4 {
   font-family: "Times New Roman", Times, serif;
+  margin-top: 3%;
 }
 
 #introduction{
@@ -68,6 +69,7 @@
 
 .newday{
   font-style: italic;
+  margin-top: 4%;
 }
 
 .thefuture{
